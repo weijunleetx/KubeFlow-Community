@@ -269,6 +269,13 @@
   affiliation: Microsoft
   email: wibuch@microsoft.com
 
+- github: weijunleetx
+  slack: weijunlee
+  firstName: Weijun
+  lastName: Lee
+  affiliation: 
+  email: weijunlee@gmail.com
+  
 - github: willb
   slack: willb
   firstName: William
